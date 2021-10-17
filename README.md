@@ -5,9 +5,13 @@
 
 Please download the EVIS_40 dataset from this repository: https://github.com/LianzheWang/EVIS
 
-Unzip and put the EVIS dataset under the data director. It should appear like root/data/EVIS_40/..
+Unzip and put the EVIS dataset under the data director. It should appear like 
 
-Start from the notebook Active_Gradual_Domain_Adaptation_EVIS.ipynb . Where we replicate our experiment results from the paper.
+```
+root/data/EVIS_40/..
+```
+
+In the notebook Active_Gradual_Domain_Adaptation_EVIS.ipynb , We aer able to replicate our experiment results from the paper.
 
 Specificly, the following things have been done in the notebook:
 
