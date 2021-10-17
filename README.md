@@ -11,7 +11,7 @@ Unzip and put the EVIS dataset under the data director. It should appear like
 root/data/EVIS_40/..
 ```
 
-In the notebook Active_Gradual_Domain_Adaptation_EVIS.ipynb , We aer able to replicate our experiment results from the paper.
+In the notebook Active_Gradual_Domain_Adaptation_EVIS.ipynb , We are able to replicate our experiment results in the paper.
 
 Specificly, the following things have been done in the notebook:
 
