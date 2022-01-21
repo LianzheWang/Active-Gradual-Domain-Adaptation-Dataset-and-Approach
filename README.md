@@ -21,3 +21,14 @@ Specificly, the following things have been done in the notebook:
 
 
 ### Citation
+If you find this work helpful in your research, please consider cite our paper through
+```
+@ARTICLE{Zhou2020,
+author={Zhou, Shiji and Wang, Lianzhe and Zhang, Shanghang and Wang, Zhi and Zhu, Wenwu},  
+journal={IEEE Transactions on Multimedia},   
+title={Active Gradual Domain Adaptation: Dataset and Approach},   
+year={2022},   
+pages={1-1}, 
+doi={10.1109/TMM.2022.3142524}
+}
+```
