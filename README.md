@@ -1,7 +1,7 @@
 # PyTorch Implementation of Paper "Active Gradual Domain Adaptation: Dataset and Approach"
 
 ### Paper
-[Active Gradual Domain Adaptation: Dataset and Approach](https://ieeexplore.ieee.org/document/9681347)
+[Active Gradual Domain Adaptation: Dataset and Approach](https://ieeexplore.ieee.org/document/9681347) IEEE Transactions on Multimedia, Special Issue on Learning from Noisy Multimedia Data.
 
 ### How to run
 
